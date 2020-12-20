@@ -1,3 +1,5 @@
+// Simple names were used for better understanding else a list was a great option for working on large data sets
+// It's only a prototype
 {
     "amazon_price": "11.42",
     "amazon_share": 1000,
@@ -8,9 +10,9 @@
     "facebook_price": "11.39",
     "facebook_share": 1500,
     "microsoft_price": "11.38",
-    "microsoft_share": 0,
+    "microsoft_share": 400,
     "netflix_price": "11.36",
-    "netflix_share": 0,
+    "netflix_share": 2700,
     "jio_price": "11.35",
     "jio_share": 1000,
     "flipkart_price": "11.34",
