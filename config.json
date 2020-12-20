@@ -1,0 +1,22 @@
+{
+    "amazon_price": "11.42",
+    "amazon_share": 1000,
+    "google_price": "11.41",
+    "google_share": 1400,
+    "apple_price": "11.40",
+    "apple_share": 1205,
+    "facebook_price": "11.39",
+    "facebook_share": 1500,
+    "microsoft_price": "11.38",
+    "microsoft_share": 0,
+    "netflix_price": "11.36",
+    "netflix_share": 0,
+    "jio_price": "11.35",
+    "jio_share": 1000,
+    "flipkart_price": "11.34",
+    "flipkart_share": 1100,
+    "walmart_price": "11.33",
+    "walmart_share": 1600,
+    "airtel_price": "11.32",
+    "airtel_share": 700
+}
